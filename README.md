@@ -13,9 +13,8 @@ Pandas,
 Numpy, 
 Scikit-learn, 
 NLTK(Natural Language Toolkit)
-Jupyter.
 
 Download GloVe Word Embedding files before running the model in your system. 
 
 
-Built on :- Jupyter Notebook
+
