@@ -14,7 +14,7 @@ Numpy,
 Scikit-learn, 
 NLTK(Natural Language Toolkit)
 
-Download GloVe Word Embedding files before running the model in your system. 
+Download GloVe Word Embedding files from the given PDF before running the model in your system. 
 
 
 
